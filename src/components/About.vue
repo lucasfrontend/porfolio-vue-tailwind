@@ -12,21 +12,20 @@
           -->
         </div>
       </header>
-      <footer class="grid grid-col-6 sticky top-0 left-0">
-        <div class="flex flex-col gap-4">
+      <footer class="grid grid-col-6 sticky top-0 left-0 pt-6 pr-6">
+        <div class="flex flex-col">
           <div class="flex justify-between items-center">
-            <a href="#" class="group flex justify-end pr-2">
+            <a href="#" class="group flex justify-end">
               <div class="group-hover:-translate-y-0.5 group-hover:scale-125 transition-all duration-150">
                 <p class="text-white flex flex-inline items-center">Email: <span><a href="#" class="text-green cursor-pointer">lucasfrontenddev@gmail.com</a></span></p>
                   <!--
                   <font-awesome-icon icon="fa-brands fa-whatsapp" />
                   -->
-              
               </div>
             </a>
           </div>
           <div class="flex justify-between items-center">
-            <a href="#" class="group flex justify-end pr-2">
+            <a href="#" class="group flex justify-end">
               <div class="group-hover:-translate-y-0.5 group-hover:scale-125 transition-all duration-150">
                 <p class="text-white flex flex-inline items-center">Phone: <span><a href="#" class="text-green cursor-pointer">+054 11 2386 8020</a></span></p>
                   <!--

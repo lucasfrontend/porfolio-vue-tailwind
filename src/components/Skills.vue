@@ -251,13 +251,19 @@ export default {
         skills: [
             {
                 id: 1,
+                /*
                 img: 'https://s3-us-west-2.amazonaws.com/s.cdpn.io/1116997/html-5.svg',
+                */
+                img: 'https://img.shields.io/badge/-HTML5-2E303A?style=for-the-badge&logo=html5',
                 title: 'Html5',
                 alt: 'html logo'
             },
             {
                 id: 2,
+                /*
                 img: 'https://s3-us-west-2.amazonaws.com/s.cdpn.io/1116997/css.3.svg',
+                */
+                img: 'https://img.shields.io/badge/-CSS3-2E303A?style=for-the-badge&logo=css3',
                 title: 'CSS',
                 alt: 'CSS logo'
             },
@@ -288,7 +294,7 @@ export default {
             },
             {
                 id: 5,
-                img: 'https://s3-us-west-2.amazonaws.com/s.cdpn.io/1116997/react.svg',
+                img: '../assets/logo.png',
                 title: 'VUEjs',
                 alt: 'VUE logo'
             },
@@ -330,7 +336,7 @@ export default {
             },
             {
                 id: 12,
-                img: '',
+                img: 'https://static.djangoproject.com/img/logo-django.42234b631760.svg',
                 title: 'Django',
                 alt: 'Django logo'
             },

@@ -101,7 +101,7 @@
                   <font-awesome-icon icon="fa-solid fa-list" class="mr-3"/>
                   -->
                   .
-                  Contact
+                  {{ $t('sidebar.contact')}}
                 </button>
             </router-link>
         </div>

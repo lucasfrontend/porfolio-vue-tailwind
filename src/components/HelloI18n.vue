@@ -18,6 +18,11 @@ export default defineComponent({
 
     return { t }
   }
+=======
+
+export default defineComponent({
+  name: 'HelloI18n'
+>>>>>>> es
 })
 </script>
 

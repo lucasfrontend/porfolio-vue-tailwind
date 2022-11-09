@@ -4,7 +4,7 @@
     <section class="sm:bg-dark md:bg-dark lg:bg-black xl:bg-black px-4">
       <header class="text-white sm:p-6 lg:p-6">
         <div>
-          <h3 class="mt-5 text-2xl font-medium tracking-tight text-lightest pt-14 lg:p-0">Lucas Sebastian Martinez</h3>
+          <h3 class="mt-5 text-2xl font-medium tracking-tight text-lightest pt-14 lg:p-0">{{ $t('about.name')}}</h3>
           <h1 class="flex flex-col items-center justify-center text-3xl mt-8">I design &amp; build digital products and user interfaces, I code beautifully simple things, and I love what I do.</h1>
           <!--
           <h1 class="flex flex-col items-center justify-center text-3xl mt-8">I design and develop front&#8209;end web experiences that make things easier. I design & build digital products and user interfaces, I code beautifully simple things, and I love what I do.</h1>

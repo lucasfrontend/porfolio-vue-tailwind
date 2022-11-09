@@ -24,7 +24,7 @@
                   <font-awesome-icon icon="fa-solid fa-home" class="mr-3"/>
                   -->
                   .
-                  Home
+              {{ $t('sidebar.home')}}
                 </button>
             </router-link>
         </div>
@@ -35,7 +35,7 @@
                     <font-awesome-icon icon="fa-solid fa-address-card" class="mr-3" />
                   -->
                   .
-                  About me
+                  {{ $t('sidebar.aboutme')}}
                 </button>
             </router-link>
         </div>
@@ -57,7 +57,7 @@
                   <font-awesome-icon icon="fa-solid fa-list" class="mr-3"/>
                   -->
                   .
-                  Skill
+                  {{ $t('sidebar.skills')}}
                 </button>
             </router-link>
         </div>

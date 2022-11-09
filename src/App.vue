@@ -1,6 +1,8 @@
 <template>
   <div>
     <SideBarView />
+    <h1 class="text-white">{{ $t('sidebar.home') }}</h1>
+    
     <!--
     <HeaderView />
     -->
